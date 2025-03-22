@@ -1,0 +1,831 @@
+.cv-by-mark-sazonov,
+.cv-by-mark-sazonov * {
+  box-sizing: border-box;
+}
+.cv-by-mark-sazonov {
+  height: 842px;
+  position: relative;
+}
+.a-4-1 {
+  background: #ffffff;
+  width: 596.57px;
+  height: 842px;
+  position: absolute;
+  left: 161.43px;
+  top: 0px;
+  overflow: hidden;
+}
+.group-52 {
+  position: absolute;
+  inset: 0;
+}
+.group-42 {
+  width: 140px;
+  height: 135px;
+  position: static;
+}
+.tehnilised-oskused {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 53px;
+  top: 596px;
+}
+.group-32 {
+  width: 140px;
+  height: 7px;
+  position: absolute;
+  left: 53px;
+  top: 640px;
+  overflow: visible;
+}
+.group-33 {
+  width: 140px;
+  height: 7px;
+  position: absolute;
+  left: 53px;
+  top: 666px;
+  overflow: visible;
+}
+.group-34 {
+  width: 140px;
+  height: 7px;
+  position: absolute;
+  left: 53px;
+  top: 695px;
+  overflow: visible;
+}
+.group-35 {
+  width: 140px;
+  height: 7px;
+  position: absolute;
+  left: 53px;
+  top: 724px;
+  overflow: visible;
+}
+.group-28 {
+  width: 48.86px;
+  height: 17px;
+  position: static;
+}
+.figma {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 73px;
+  top: 621px;
+}
+.vector {
+  width: 1.85%;
+  height: 2.02%;
+  position: absolute;
+  right: 89.24%;
+  left: 8.91%;
+  bottom: 24.35%;
+  top: 73.63%;
+  overflow: visible;
+}
+.group-29 {
+  width: 67.86px;
+  height: 14px;
+  position: static;
+}
+.adobe-xd {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 73px;
+  top: 650px;
+}
+.x-33-x-2-c-xd-x-2-c-adobe {
+  width: 12.03px;
+  height: 12px;
+  position: absolute;
+  left: 53.14px;
+  top: 652px;
+  overflow: visible;
+}
+.group-30 {
+  width: 104.86px;
+  height: 13px;
+  position: static;
+}
+.adobe-photoshop {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 73px;
+  top: 678px;
+}
+.group {
+  width: 2.02%;
+  height: 1.43%;
+  position: absolute;
+  right: 89.08%;
+  left: 8.91%;
+  bottom: 17.93%;
+  top: 80.64%;
+  overflow: visible;
+}
+.group-31 {
+  width: 99.86px;
+  height: 14px;
+  position: static;
+}
+.adobe-illustrator {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 705px;
+}
+.group2 {
+  width: 2.02%;
+  height: 1.43%;
+  position: absolute;
+  right: 89.08%;
+  left: 8.91%;
+  bottom: 14.61%;
+  top: 83.97%;
+  overflow: visible;
+}
+.group-16 {
+  width: 101px;
+  height: 42px;
+  position: static;
+}
+.mark-sazonov {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 156px;
+}
+.spo {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 183px;
+}
+.group-43 {
+  width: 123px;
+  height: 145px;
+  position: static;
+}
+.integreerimine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 493px;
+}
+.microsofti-kasutamine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 514px;
+}
+.adobe-kasutsmine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 535px;
+}
+.kannatlikus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 556px;
+}
+.oskused {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 53px;
+  top: 423px;
+}
+.probleemide-lahendamine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 451px;
+}
+.it-oskused {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 472px;
+}
+.group-45 {
+  width: 133px;
+  height: 82.88px;
+  position: static;
+}
+.kontaktid {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 53px;
+  top: 226px;
+}
+.group-22 {
+  width: 132.86px;
+  height: 12px;
+  position: static;
+}
+.mark-sazonov-tallink-ee {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 249px;
+}
+.vector2 {
+  width: 1.85%;
+  height: 0.95%;
+  position: absolute;
+  right: 89.24%;
+  left: 8.91%;
+  bottom: 69%;
+  top: 30.05%;
+  overflow: visible;
+}
+.group-21 {
+  width: 88.86px;
+  height: 13px;
+  position: static;
+}
+._37258348916 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 274px;
+}
+.vector3 {
+  width: 1.85%;
+  height: 1.31%;
+  position: absolute;
+  right: 89.24%;
+  left: 8.91%;
+  bottom: 65.91%;
+  top: 32.78%;
+  overflow: visible;
+}
+.group-20 {
+  width: 86.86px;
+  height: 13.88px;
+  position: static;
+}
+.tallinn-estonia {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 295px;
+}
+.group3 {
+  width: 1.34%;
+  height: 1.53%;
+  position: absolute;
+  right: 89.75%;
+  left: 8.91%;
+  bottom: 63.32%;
+  top: 35.15%;
+  overflow: visible;
+}
+.group-44 {
+  width: 70px;
+  height: 58px;
+  position: static;
+}
+.keeled {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  position: absolute;
+  left: 53px;
+  top: 337px;
+}
+.group-25 {
+  width: 69.86px;
+  height: 13px;
+  position: static;
+}
+.inglise-keel {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 70px;
+  top: 382px;
+}
+.group4 {
+  width: 2.02%;
+  height: 1.43%;
+  position: absolute;
+  right: 89.08%;
+  left: 8.91%;
+  bottom: 53.09%;
+  top: 45.49%;
+  overflow: visible;
+}
+.group-24 {
+  width: 61.86px;
+  height: 13px;
+  position: static;
+}
+.eesti-keel {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 359px;
+}
+.group5 {
+  width: 2.02%;
+  height: 1.43%;
+  position: absolute;
+  right: 89.08%;
+  left: 8.91%;
+  bottom: 55.82%;
+  top: 42.76%;
+  overflow: visible;
+}
+.group-41 {
+  width: 221px;
+  height: 59px;
+  position: static;
+}
+.huvid {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 53px;
+  top: 756px;
+}
+.group-37 {
+  width: 58px;
+  height: 30px;
+  position: static;
+}
+.kirjutamine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 216px;
+  top: 803px;
+  width: 58px;
+  height: 12px;
+}
+.pen {
+  width: 2.6%;
+  height: 1.43%;
+  position: absolute;
+  right: 57.42%;
+  left: 39.99%;
+  bottom: 5.34%;
+  top: 93.23%;
+  overflow: visible;
+}
+.group-38 {
+  width: 47px;
+  height: 28px;
+  position: static;
+}
+.lugemine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 161px;
+  top: 803px;
+}
+.vector4 {
+  width: 2.52%;
+  height: 1.43%;
+  position: absolute;
+  right: 68.4%;
+  left: 29.08%;
+  bottom: 5.11%;
+  top: 93.47%;
+  overflow: visible;
+}
+.group-39 {
+  width: 52px;
+  height: 26px;
+  position: static;
+}
+.reisimine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 109px;
+  top: 804.24px;
+  width: 52px;
+  height: 10.76px;
+}
+.vector5 {
+  width: 2.33%;
+  height: 1.28%;
+  position: absolute;
+  right: 77.02%;
+  left: 20.65%;
+  bottom: 5.02%;
+  top: 93.71%;
+  overflow: visible;
+}
+.group-40 {
+  width: 42px;
+  height: 28px;
+  position: static;
+}
+.otsimine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 53px;
+  top: 803px;
+}
+.research {
+  width: 1.85%;
+  height: 1.66%;
+  position: absolute;
+  right: 85.71%;
+  left: 12.44%;
+  bottom: 4.87%;
+  top: 93.47%;
+  overflow: visible;
+}
+.rectangle-1 {
+  background: #000000;
+  opacity: 0.05;
+  width: 280px;
+  height: 842px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.cv-profile {
+  height: auto;
+  position: absolute;
+  left: 53px;
+  top: 49px;
+  overflow: visible;
+}
+.text {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 217px;
+}
+.group-55 {
+  width: 224.59px;
+  height: 768px;
+  position: static;
+}
+.group-51 {
+  width: 109.29px;
+  height: 161px;
+  position: static;
+}
+.soft-oskused {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 476.26px;
+  top: 379px;
+  width: 77.2px;
+}
+.kliendivestlus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 408px;
+  width: 66.17px;
+}
+.n-uete-kogumine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 428px;
+  width: 84.22px;
+}
+.esitlus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 448px;
+  width: 31.08px;
+}
+.projektijuhtimine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 468px;
+  width: 79.21px;
+}
+.ressursside-haldamine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 488px;
+  width: 109.29px;
+}
+.ri-planeerimine {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 508px;
+  width: 77.2px;
+}
+.turuuuring {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 528px;
+  width: 51.13px;
+}
+.group-53 {
+  width: 224.59px;
+  height: 177px;
+  position: static;
+}
+.t-kogemus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 476.26px;
+  top: 183px;
+  width: 80.21px;
+}
+.tere-mina-olen-mark-oma-viimase-aasta-jooksul-ui-ux-disaini-valdkonnas-olen-alati-p-dnud-luua-loomingulisemaid-ja-keerukamaid-projekte-kui-teised-mind-huvitavad-veebide-ja-mobiili-ppide-ui-ux-ning-muud-disainiprojektid-p-an-alati-tagada-100-kliendirahulolu-ja-t-htaegade-t-itmise-soovin-olla-loov-ja-teha-v-ljakutseid-pakkuvaid-projekte {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 180%;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 213px;
+  width: 224.59px;
+  height: 147px;
+}
+.group-54 {
+  width: 224.59px;
+  height: 149px;
+  position: static;
+}
+.karj-ri-eesm-rgid {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 476.26px;
+  top: 570px;
+  width: 134.35px;
+}
+.noore-professionaalina-soovin-t-tada-organisatsioonis-kus-tehtud-t-de-v-rtustamine-on-k-rgel-tasemel-ning-arendada-oma-karj-ri-v-ljakutsuva-ja-tasuvana-positsioonil-v-idukas-organisatsioonis-kus-loovus-siirus-oskused-ja-tulemuslikkus-on-hindamise-ja-tunnustamise-kriteeriumideks {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 180%;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 595px;
+  width: 224.59px;
+  height: 124px;
+}
+.group-47 {
+  width: 223.59px;
+  height: 110px;
+  position: static;
+}
+.haridus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 476.26px;
+  top: 44px;
+  width: 46.12px;
+}
+.kraad-teaduse-bakalaureus-bsc {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 100px;
+  width: 162.43px;
+}
+.asutus-modeli-teaduse-ja-tehnoloogia-instituut-rahvus-likooli-all {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 67px;
+  width: 190.5px;
+}
+.eriala-arvutiteadus-ja-inseneritehnika-cse {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 121px;
+  width: 206.54px;
+}
+.tulemus-g-p-a-protsessis-viimane-semester {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 142px;
+  width: 223.59px;
+}
+.group-50 {
+  width: 53.14px;
+  height: 78px;
+  position: static;
+}
+.keeled2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  left: 476.26px;
+  top: 734px;
+  width: 46.12px;
+}
+.inglise-keel2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 759px;
+  width: 53.14px;
+}
+.eesti-keel2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 782px;
+  width: 46.12px;
+}
+.vene-keel {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 476.26px;
+  top: 800px;
+  width: 46.12px;
+}
