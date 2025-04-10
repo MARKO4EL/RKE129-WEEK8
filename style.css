@@ -829,3 +829,18 @@
   top: 800px;
   width: 46.12px;
 }
+
+.image-container {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: opacity 0.3s ease;
+}
+
