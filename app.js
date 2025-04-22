@@ -1,6 +1,7 @@
 const images = ['1.jpeg', '2.jpeg', '3.jpeg', '4.jpeg', '5.jpeg'];
 const targetImage = document.querySelector('.mdvp-image img');
 let i = 1;
+app = Flask(__name__)
 
 targetImage.addEventListener('click', () => {
 
